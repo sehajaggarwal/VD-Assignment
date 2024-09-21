@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Top 5 Customers</h1>
+  <ul>
+    {% for customer in top_customers %}
+      <li>{{ customer.customer }} - {{ customer.total_spent }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
