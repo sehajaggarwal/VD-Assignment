@@ -14,8 +14,8 @@ Ensure that Python 3.12.6 is installed on your system before proceeding. You can
 2. Install the required packages:</br>
 ```pip install -r requirements.txt```
 ## Running Solutions
-### For VDT1,2,4,5,6
-Use the following command:</br>
+### For VDT- 1,2,4,5,6
+Run the following command in your terminal:</br>
 ```python <filename.py>```</br>
 *Example:*
 ```python VDT1/Q1.py```
