@@ -9,7 +9,15 @@ You can change the input values in the 'test the solution' section i.e. in the m
 Ensure that Python 3.12.6 is installed on your system before proceeding. You can download it from python.org.
 ## Installation
 1. Clone the repository to your local machine:
-`git clone <repository-url>
-cd <repository-name>`
+`git clone <repository-url>`
+`cd <repository-name>`
 2. Install the required packages:
 `pip install -r requirements.txt`
+## Running Solutions
+### For VDT1,2,4,5,6
+Use the following command:
+`python <filename.py>`
+Example:
+`python VDT1/Q1.py`
+### For VDT3
+
