@@ -25,7 +25,7 @@ Example:
 2. Create a virtual environment:
  ```python -m venv <environmentname>```
 3. Activate the virtual environment:
-   On windows
+   On windows- 
  ```<environmentname>\Scripts\activate```
 4. Install Django:
  ```pip install django```
@@ -33,7 +33,7 @@ Example:
 ```cd vdt3```
 6. Run the server:
 ```python manage.py runserver```
-7.Open your browser and navigate to http://localhost:8000/top-customers/ to view the results.
+7. Open your browser and navigate to http://localhost:8000/top-customers/ to view the results.
    #### Editing seed data in VDT3
    If you wish to modify the seed data, follow these steps:
       1. Navigate to the JSON file in the fixtures directory.
